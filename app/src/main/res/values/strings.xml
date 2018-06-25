@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartConfig</string>
+    <string name="ssid">Please enter WiFi name</string>
+    <string name="pass">Please enter WiFi password</string>
+    <string name="send">SEND</string>
+    <string name="smartconfig">SmartConfig</string>
+</resources>
